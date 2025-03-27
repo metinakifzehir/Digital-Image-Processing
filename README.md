@@ -16,12 +16,14 @@ This project is a digital image processing tool developed in Python. It provides
 
 ✅ The processed image can be saved.
 
+
 🛠 Technologies Used
 - Python
 - OpenCV library (for digital image processing)
 - Tkinter library (for GUI)
 
-📸 Screenshot
+
+📸 Screenshots
 
 <img src="https://github.com/user-attachments/assets/b545538f-d772-44fb-aa00-a553782013b0" width="500">
 <img src="https://github.com/user-attachments/assets/8b9d548d-4138-4305-9b1a-0b61e56040ac" width="500">
